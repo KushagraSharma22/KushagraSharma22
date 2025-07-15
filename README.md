@@ -1,18 +1,40 @@
-# 💫 About Me:
-👋 Hi, I’m @KushagraSharma22<br>👀 I’m interested in programming<br>🌱 I’m currently learning python<br>💞️ I’m looking to collaborate on projects<br>😄 Pronouns: HE/HIM
+## 👋 Hey there! I'm Kushagra Sharma
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushagra4222005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kushagra-sharma-416877289/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KushagraSharma22&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KushagraSharma22&theme=apprentice&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSharma22&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎯 **Aspiring DevOps Engineer** | 🧠 DSA Learner | 💻 Python Enthusiast  
+🚀 Preparing for Summer Internships at Google & other FAANG/MAANG companies
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KushagraSharma22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚧 What I'm Currently Working On:
+- 💡 Strengthening my **DSA skills** (solving on LeetCode & Codeforces)
+- 🛠️ Building **DevOps projects** using Docker, GitHub Actions & Cloud (AWS/GCP)
+- 🔍 Exploring CI/CD, monitoring, cloud infrastructure & automation
+
+---
+
+### 🧰 My Toolbox:
+- **Languages**: Python, Bash, YAML
+- **Tools**: Git & GitHub, Docker, GitHub Actions, Linux CLI, Shell Scripting
+- **Cloud**: AWS (EC2, S3), GCP (Compute Engine)
+- **Other**: Postman, VS Code, Markdown
+
+---
+
+### 📈 Learning Goals:
+- Crack internships at Google / Microsoft / Amazon in Summer 2026  
+- Complete 150+ quality DSA problems  
+- Deploy 3+ production-level DevOps projects  
+- Maintain GitHub streak with consistent learning
+
+---
+
+### 📫 Let's Connect:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kushagra-sharma-416877289)
+- 💼 Portfolio Website: _coming soon_
+
+---
+
+### 🧠 Fun Fact:
+> I believe in **“Execution > Excuses”**. One day or Day One — your choice.  
+> And I’ve made my choice. 🚀
+
